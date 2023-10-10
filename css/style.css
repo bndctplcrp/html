@@ -12,9 +12,27 @@ h1 {
     font-size: 70px;
     color:red;
 }
-
-div {
-    background: pink;
-    width: 500px;
-    height: 500px;
+span {
+    color: yellow;
+    font-size: 40px;
+    font-family: sans-serif;
 }
+#top-section{
+    background:pink;
+}
+#bottom-section{
+    background: pink;
+}
+.Intro{
+    font-size: 30px;
+}
+.accent{
+    color: green;
+}
+
+/*this ismy comment
+Margin
+Border
+padding
+*/
+
