@@ -1,0 +1,21 @@
+h1 {
+    font-size: 70px;
+    color:blueviolet
+}
+
+body {
+    background-color: pink;
+    color: black;
+    font-size: 25px;
+}
+
+
+.box {
+    background-image: url(../img/hamster.jpg);
+    background-size: cover ;
+    background-position: center;
+    padding: 50px;
+    margin: 50px;
+    
+
+}
